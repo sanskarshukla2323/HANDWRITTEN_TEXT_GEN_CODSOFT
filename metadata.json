@@ -1,0 +1,6 @@
+{
+  "name": "Handwriting Studio - Character-Level RNN",
+  "description": "Character-level Recurrent Neural Network (RNN/LSTM) for text generation and handwriting synthesis for CODSOFT Task 2.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
